@@ -1,11 +1,11 @@
-# Set Suit
+# Set Kit
 
 {% hint style="info" %}
-套装将会在玩家首次进入服务器和死亡后替换到背包中，通常用于放初始的装备。 The set set the item position will be the same as the given item.
+Kit will be replaced with the inventory when the player first enters the server and dies, usually for the initial equipment. The set the item position will be the same as the given item.
 {% endhint %}
 
 {% hint style="success" %}
-Executing these commands requires permission：SkyPvp.admin
+Executing these commands requires permission: SkyPvP.admin
 {% endhint %}
 
 | Commands     | Description                                       |
