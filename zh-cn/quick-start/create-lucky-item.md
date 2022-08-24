@@ -10,8 +10,8 @@
 
 | 命令                               | 描述           |
 | -------------------------------- | ------------ |
-| /LuckItem add <type> <weight>  | 将手持物品设置为幸运物品 |
-| /LuckItem display <type>        | 预览幸运物品       |
+| /LuckItem add \<type> \<weight>  | 将手持物品设置为幸运物品 |
+| /LuckItem display \<type>        | 预览幸运物品       |
 
 ## 什么是权重？
 
