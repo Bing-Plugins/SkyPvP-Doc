@@ -21,4 +21,17 @@
 
 ## 🦁 English <a href="#en-us" id="en-us"></a>
 
-* [Quick Start](en-us/quick-start.md)
+* [Quick Start](en-us/quick-start/README.md)
+  * [Create Lucky Block](en-us/quick-start/create-lucky-block.md)
+  * [Create Lucky Item](en-us/quick-start/create-lucky-item.md)
+  * [Set Kit](en-us/quick-start/set-kit.md)
+  * [Set Respawn Point](en-us/quick-start/set-respawn-point.md)
+* [Function](en-us/function/README.md)
+  * [幸运方块类型](en-us/function/lucky-block-type.md)
+  * [幸运物品权重](en-us/function/lucky-item-weight.md)
+  * [PAPI 占位符](en-us/function/papi-placeholder.md)
+* [Other Commands](en-us/other-commands/README.md)
+  * [玩家返回重生点](en-us/other-commands/player-return-spawn-point.md)
+  * [重载插件](en-us/other-commands/reload-plugin.md)
+* [Configuration File](en-us/configuration-file/README.md)
+  * [config.yml](en-us/configuration-file/config.yml.md)
