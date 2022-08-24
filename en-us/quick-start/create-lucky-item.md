@@ -8,37 +8,10 @@ Lucky items are items that fall after opening a lucky block. If a lucky block of
 Executing these commands requires permission：SkyPvP.admin
 {% endhint %}
 
-<table spaces-before="0">
-  <tr>
-    <th>
-      Commands
-    </th>
-    
-    <th>
-      Description
-    </th>
-  </tr>
-  
-  <tr>
-    <td>
-      /LuckItem add \<type> \<weight>
-    </td>
-    
-    <td>
-      Set handheld items as lucky items
-    </td>
-  </tr>
-  
-  <tr>
-    <td>
-      /LuckItem display \<type>
-    </td>
-    
-    <td>
-      Preview lucky items
-    </td>
-  </tr>
-</table>
+| Commands          | Description                       |
+| ----------------- | --------------------------------- |
+| /LuckItem add     | Set handheld items as lucky items |
+| /LuckItem display | Preview lucky items               |
 
 ## What is weight?
 
