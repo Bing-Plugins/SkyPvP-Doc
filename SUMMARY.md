@@ -13,3 +13,6 @@
   * [幸运方块类型](zh-cn/function/lucky-block-type.md)
   * [幸运物品权重](zh-cn/function/lucky-item-weight.md)
   * [PAPI 占位符](zh-cn/function/papi-placeholder.md)
+* [其他命令](zh-cn/other-commands/README.md)
+  * [玩家返回重生点](zh-cn/other-commands/player-return-spawn-point.md)
+  * [重载插件](zh-cn/other-commands/reload-plugin.md)
