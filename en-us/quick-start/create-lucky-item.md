@@ -1,8 +1,8 @@
-- - -
-description: Lucky items are items that fall after opening a lucky block. If a lucky block of quality does not have an item, nothing will be done when opening a lucky block.
-- - -
-
 # New Lucky Item
+
+{% hint style="info" %}
+幸运物品就是打开幸运方块后掉落的物品，如果一个品质的幸运方块未设置物品，那么开启幸运方块后则会什么都不掉。
+{% endhint %}
 
 {% hint style="success" %}
 Executing these commands requires permission：SkyPvp.admin
