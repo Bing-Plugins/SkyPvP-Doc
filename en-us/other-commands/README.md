@@ -1,2 +1,2 @@
-# 其他命令
+# Other commands
 
