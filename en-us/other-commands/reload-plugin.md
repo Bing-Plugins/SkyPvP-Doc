@@ -1,13 +1,13 @@
-# 重载插件
+# Reload Plugin
 
 {% hint style="success" %}
-执行这些命令需要权限：SkyPvP.admin
+Executing these commands requires permission：SkyPvp.admin
 {% endhint %}
 
-| 命令             | 描述   |
-| -------------- | ---- |
-| /SkyPvP reload | 重载配置 |
+| Commands       | Description          |
+| -------------- | -------------------- |
+| /SkyPvP reload | Reload configuration |
 
-## 重载命令可以重载什么？
+## What can reload the command?
 
-可以重载语言文件、幸运方块等大部分配置文件。除了 MySQL 连接，如果你想修改它，请重启服务器！
+Can reload language files, lucky blocks, and more.Apart from MySQL connections, if you want to modify it, please restart the server!
