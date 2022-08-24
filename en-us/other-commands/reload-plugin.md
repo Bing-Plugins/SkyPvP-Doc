@@ -10,4 +10,4 @@ Executing these commands requires permission：SkyPvp.admin
 
 ## What can reload the command?
 
-Can reload language files, lucky blocks, and more.Apart from MySQL connections, if you want to modify it, please restart the server!
+Can reload language files, lucky blocks, and more.Can reload language files, lucky blocks, and more.Apart from MySQL connections, if you want to modify it, please restart the server!
