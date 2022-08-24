@@ -34,4 +34,4 @@
   * [Player Return Spawn Point](en-us/other-commands/player-return-spawn-point.md)
   * [Reload Plugin](en-us/other-commands/reload-plugin.md)
 * [Configuration File](en-us/configuration-file/README.md)
-  * [config.yml](en-us/configuration-file/config.yml.md)
+  * [config.yml](en-us/configuration-file/config.md)
