@@ -9,3 +9,5 @@
   * [新建幸运物品](zh-cn/quick-start/create-lucky-item.md)
   * [设置套装](zh-cn/quick-start/set-kit.md)
   * [设置重生点](zh-cn/quick-start/set-respawn-point.md)
+* [功能](zh-cn/function/README.md)
+  * [幸运方块类型](zh-cn/function/lucky-block-type.md)
