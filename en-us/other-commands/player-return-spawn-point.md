@@ -14,4 +14,4 @@ The player needs to meet the following preconditions when executing the return t
 
 * Command not in combat while executing the command.
 * Waiting for transfer, not moved by attack &.
-* Admin has set birth points with[this method](../pei-zhi-you-xi/ru-he-she-zhi-chu-sheng-dian.md).
+* Admin has set birth points with [this method](../pei-zhi-you-xi/ru-he-she-zhi-chu-sheng-dian.md).
