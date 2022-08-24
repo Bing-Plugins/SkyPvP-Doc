@@ -1,5 +1,5 @@
 ---
-description: 主要配置
+description: Main configuration
 ---
 
 # config.yml
