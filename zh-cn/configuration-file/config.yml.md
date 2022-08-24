@@ -1,41 +1,37 @@
----
-description: 主要配置
----
-
-# config.yml
+# config
 
 ```yaml
-# Token authentication token
-# Put the token days given after purchase here
+# Token 认证令牌
+# 将购买后给的令牌天到此处
 Token: ""
 
-# battle mode duration
+# 战斗模式持续时间
 Combat-Time: 10
 
-# Send wait time
+# 传送等待时间
 Spawn-Cool-Down: 3
 
-# Kills give economy
+# 击杀给予经济
 Kill-Coins: 10
 
-# Death preserve experience
+# 死亡保留经验
 Keep-Death-Exp: false
 
-# No damage within a few seconds of entering the game (not recommended to set to 0)
+# 进入游戏几秒内无伤害 (不建议设置为 0)
 No-Damage-On-Join: 3
 
-# When hitting like a void, identify the attacker within a few seconds as the killer
+# 击如虚空时, 认定多少秒内的攻击者为杀手
 Void-Kill-Time: 10
 
-# Customize the sound of opening lucky block
+# 自定义打开幸运方块声音
 # 1.8 LEVEL_UP
 # 1.9+ ENTITY_PLAYER_LEVELUP
 Open-Loot-Sound: ""
 
-# Birth location
+# 出生位置
 Spawn-Loc: ""
 
-# MySQL
+# 数据部分
 MySQL:
   host: mysql.yistars.net
   port: 3306
