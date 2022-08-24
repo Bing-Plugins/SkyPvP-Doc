@@ -55,7 +55,7 @@ For available quality categories, see [this page](broken-reference/).
 ### Method 1：Direct Use Command New (recommended)
 
 1. Handheld items to add
-2. 使用 `/LuckItem add <类型> <权重>` 命令。
+2. 使用 `/LuckItem add <品质> <权重>` 命令。
 3. Finished adding action.
 
 ### Method 2：New from GUI
@@ -70,7 +70,7 @@ For available quality categories, see [this page](broken-reference/).
 
 Only one way to remove lucky items can be removed from the GUI.
 
-1. 使用 `/LuckItem display <类型>` 命令打开 GUI。
+1. 使用 `/LuckItem display <type>` 命令打开 GUI。
 2. Find the lucky items you want to remove.
 3. Shift + right this item.
 4. Complete removal.
