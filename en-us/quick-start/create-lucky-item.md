@@ -43,7 +43,7 @@ For available quality categories, see[this page](broken-reference).
 
 Only one way to remove lucky items can be removed from the GUI.
 
-1. 使用 `/LuckItem display <品质>` 命令打开 GUI。
-2. 找到你要移除的幸运物品。
-3. Shift + 右键 此物品。
-4. 完成移除。
+1. Open GUI using the `/LuckItem display <quality>` command.
+2. Find the lucky items you want to remove.
+3. Shift + right this item.
+4. Complete removal.
