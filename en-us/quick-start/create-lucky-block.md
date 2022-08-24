@@ -1,14 +1,14 @@
-# 新建幸运方块
+# New Lucky Block
 
-| 命令                      | 描述           |
-| ----------------------- | ------------ |
-| /LuckBlock add <品质>     | 在脚下新建幸运方块    |
-| /LuckBlock display <品质> | 在脚下新建展示用幸运方块 |
-| /LuckBlock remove       | 启用移除模式移除幸运方块 |
+| Commands                | Description                                |
+| ----------------------- | ------------------------------------------ |
+| /LuckBlock add <品质>     | Create a lucky block under the foot        |
+| /LuckBlock display <品质> | Create a lucky block under the foot        |
+| /LuckBlock remove       | Enable removal mode to remove lucky blocks |
 
-## 新建幸运方块
+## New Lucky Block
 
-1. 找到你要创建幸运方块的位置。
+1. Find the location where you want to create the lucky block.
 2. 在此位置使用 `/LuckBlock add <品质>` 命令，允许的品质见[此页](../gong-neng/xing-yun-fang-kuai-pin-zhi.md)。
 3. 幸运方块会立即在你所在的位置生成并保存。
 
