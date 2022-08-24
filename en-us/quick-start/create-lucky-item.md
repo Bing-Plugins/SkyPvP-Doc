@@ -1,4 +1,4 @@
-# Create Lucky Item
+# New Lucky Item
 
 {% hint style="info" %}
 Lucky items are items that fall after opening a lucky block. If a lucky block of quality does not have an item, nothing will be done when opening a lucky block.
@@ -7,6 +7,38 @@ Lucky items are items that fall after opening a lucky block. If a lucky block of
 {% hint style="success" %}
 Executing these commands requires permission：SkyPvP.admin
 {% endhint %}
+
+<table spaces-before="0">
+  <tr>
+    <th>
+      Commands
+    </th>
+    
+    <th>
+      Description
+    </th>
+  </tr>
+  
+  <tr>
+    <td>
+      /LuckItem add \<type> \<weight>
+    </td>
+    
+    <td>
+      Set handheld items as lucky items
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+      /LuckItem display \<type>
+    </td>
+    
+    <td>
+      Preview lucky items
+    </td>
+  </tr>
+</table>
 
 ## What is weight?
 
