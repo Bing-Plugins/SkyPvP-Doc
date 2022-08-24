@@ -21,7 +21,7 @@ Executing these commands requires permission：SkyPvP.admin
 
 ## 新建幸运物品
 
-添加幸运物品有两种方式，一个是直接使用命令。另一种是在 GUI 中点击新建。&#x20;
+添加幸运物品有两种方式，一个是直接使用命令。另一种是在 GUI 中点击新建。&#x20;另一种是在 GUI 中点击新建。&#x20;
 
 可用的品质类别详见[此页面](../function/lucky-block-type.md)。
 
