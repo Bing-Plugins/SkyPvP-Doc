@@ -1,16 +1,16 @@
-# 设置设置出生点
+# Set spawn point
 
-| 命令               | 描述     |
-| ---------------- | ------ |
-| /SkyPvP setSpawn | 设置重生位置 |
+| Commands         | Description          |
+| ---------------- | -------------------- |
+| /SkyPvP setSpawn | Set respawn location |
 
-## 设置出生点
+## Set spawn point
 
-1. 找到你要设置的出生位置
-2. 使用 `/SkyPvP setSpawn` 命令
-3. 完成设置出生点
+1. Find the birth location you want to set
+2. Use `/SkyPvP setSpawn` command
+3. Finish setting spawn point
 
 {% hint style="info" %}
-此设置会保存你面向的方位
+This setting will save your orientation
 {% endhint %}
 
