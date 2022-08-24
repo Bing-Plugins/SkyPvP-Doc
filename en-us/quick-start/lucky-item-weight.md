@@ -1,23 +1,23 @@
-# 幸运物品权重
+# Lucky Items Weight
 
 {% hint style="info" %}
-此部分仅限想知道原理的。
+This section is limited to knowing the rationale.
 
-其实只需要知道权重越大抽中的概率越大即可。
+In fact, it is only necessary to know the greater the probability of the weight being drawn up.
 {% endhint %}
 
-## 幸运方块开启时是怎么抽取物品的？
+## How do I extracted items when lucky blocks are open?
 
-幸运方块开启流程如下：
+Lucky blocks start the process below：
 
-1. 先将同种品质的所有物品的权重相加。
-2. 从 0 到 相加的权重 中取任意值。
-3. 判断此值属于哪个物品的区间。
+1. First add weight to all items of the same quality.
+2. Remove any value from 0 to the added weight.
+3. The interval within which this value belongs to.
 
-其实由此就能看出，权重越大，被抽中的概率越大。
+This makes it clear that the greater the weight, the greater the probability of being drawn in.
 
-## GUI 中显示的概率是怎么计算的？
+## How does the probability displayed in the GUI calculate?
 
-其实如果你看懂了上面的内容，就不难理解。
+It is easy to understand if you understand the above.
 
-概率就是用该物品的权重除以所有同品质的物品的权重总和，所得到的百分比。
+The probability is the percentage obtained by dividing the weight of the item by the weight of all items of the same quality.
