@@ -21,7 +21,7 @@ Executing these commands requires permission：SkyPvP.admin
   
   <tr>
     <td>
-      /LuckItem add \<type> \<weight>
+      /LuckItem add<type> \<weight>
     </td>
     
     <td>
@@ -31,7 +31,7 @@ Executing these commands requires permission：SkyPvP.admin
   
   <tr>
     <td>
-      /LuckItem display \<type>
+      /LuckItem display<type>
     </td>
     
     <td>
@@ -50,7 +50,7 @@ Note：weight ≠ percentage of sex
 
 There are two ways to add lucky items, one is a direct use command.Another type is new in the GUI clicked.Another type is new in the GUI clicked.
 
-可用的品质类别详见[此页面](broken-reference/)。
+For available quality categories, see [this page](broken-reference/).
 
 ### Method 1：Direct Use Command New (recommended)
 
@@ -70,7 +70,7 @@ There are two ways to add lucky items, one is a direct use command.Another type 
 
 Only one way to remove lucky items can be removed from the GUI.
 
-1. 使用 `/LuckItem display <type>` 命令打开 GUI。
+1. Open GUI using the `/LuckItem display <type>` command.
 2. Find the lucky items you want to remove.
 3. Shift + right this item.
 4. Complete removal.
