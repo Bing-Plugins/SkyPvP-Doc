@@ -1,17 +1,17 @@
-# 玩家返回重生点
+# Player returned to spawn point
 
 {% hint style="success" %}
-执行此命令不需要额外的权限
+No extra permissions are required to execute this command
 {% endhint %}
 
-| 命令     | 权限            |
-| ------ | ------------- |
-| /Spawn | 回到出生点（需要预先设定） |
+| Commands | Permissions                     |
+| -------- | ------------------------------- |
+| /Spawn   | Back to birth (requires preset) |
 
-## 先决条件
+## Prerequisite
 
-玩家执行回出生点，需要具备以下前提：
+The player needs to meet the following preconditions when executing the return to the birth point:
 
-* 执行命令时未处于战斗状态。
-* 等待传送时，未被攻击 & 移动。
-* 管理员已通过[此方法](../pei-zhi-you-xi/ru-he-she-zhi-chu-sheng-dian.md)设置出生点。
+* Command not in combat while executing the command.
+* Waiting for transfer, not moved by attack &.
+* Admin has set birth points with[this method](../pei-zhi-you-xi/ru-he-she-zhi-chu-sheng-dian.md).
