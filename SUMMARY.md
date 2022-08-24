@@ -2,23 +2,6 @@
 
 * [Welcome to BingSkyPvP Guide](README.md)
 
-## 🦁 English <a href="#en-us" id="en-us"></a>
-
-* [Quick Start](en-us/quick-start/README.md)
-  * [Create Lucky Block](en-us/quick-start/create-lucky-block.md)
-  * [Create Lucky Item](en-us/quick-start/create-lucky-item.md)
-  * [Set Kit](en-us/quick-start/set-kit.md)
-  * [Set Respawn Point](en-us/quick-start/set-respawn-point.md)
-* [Function](en-us/function/README.md)
-  * [Luck Block Type](en-us/function/lucky-block-type.md)
-  * [Luckly Item Weight](en-us/function/lucky-item-weight.md)
-  * [PAPI Placeholder](en-us/function/papi-placeholder.md)
-* [Other Commands](en-us/other-commands/README.md)
-  * [Player Return Spawn Point](en-us/other-commands/player-return-spawn-point.md)
-  * [Reload Plugin](en-us/other-commands/reload-plugin.md)
-* [Configuration File](en-us/configuration-file/README.md)
-  * [config.yml](en-us/configuration-file/config.yml.md)
-
 ## 🐔 简体中文 <a href="#zh-cn" id="zh-cn"></a>
 
 * [快速开始](zh-cn/quick-start/README.md)
@@ -35,3 +18,20 @@
   * [重载插件](zh-cn/other-commands/reload-plugin.md)
 * [配置文件](zh-cn/configuration-file/README.md)
   * [config.yml](zh-cn/configuration-file/config.yml.md)
+
+## 🦁 English <a href="#en-us" id="en-us"></a>
+
+* [Quick Start](en-us/quick-start/README.md)
+  * [Create Lucky Block](en-us/quick-start/create-lucky-block.md)
+  * [Create Lucky Item](en-us/quick-start/create-lucky-item.md)
+  * [Set Kit](en-us/quick-start/set-kit.md)
+  * [Set Respawn Point](en-us/quick-start/set-respawn-point.md)
+* [Function](en-us/function/README.md)
+  * [Luck Block Type](en-us/function/lucky-block-type.md)
+  * [Luckly Item Weight](en-us/function/lucky-item-weight.md)
+  * [PAPI Placeholder](en-us/function/papi-placeholder.md)
+* [Other Commands](en-us/other-commands/README.md)
+  * [Player Return Spawn Point](en-us/other-commands/player-return-spawn-point.md)
+  * [Reload Plugin](en-us/other-commands/reload-plugin.md)
+* [Configuration File](en-us/configuration-file/README.md)
+  * [config.yml](en-us/configuration-file/config.yml.md)
