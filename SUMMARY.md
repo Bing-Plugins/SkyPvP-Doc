@@ -17,7 +17,7 @@
   * [玩家返回重生点](zh-cn/other-commands/player-return-spawn-point.md)
   * [重载插件](zh-cn/other-commands/reload-plugin.md)
 * [配置文件](zh-cn/configuration-file/README.md)
-  * [config](zh-cn/configuration-file/config.yml.md)
+  * [config.yml](zh-cn/configuration-file/config.yml.md)
 
 ## 🦁 English <a href="#en-us" id="en-us"></a>
 
