@@ -1,3 +1,7 @@
+---
+description: 主要配置
+---
+
 # config.yml
 
 ```yaml
