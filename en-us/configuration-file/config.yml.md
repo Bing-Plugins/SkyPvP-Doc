@@ -1,5 +1,9 @@
 ---
+<<<<<<< Updated upstream
 description: Main configuration
+=======
+description: 主要配置
+>>>>>>> Stashed changes
 ---
 
 # config.yml
