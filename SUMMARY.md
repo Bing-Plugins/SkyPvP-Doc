@@ -18,3 +18,7 @@
   * [重载插件](zh-cn/other-commands/reload-plugin.md)
 * [配置文件](zh-cn/configuration-file/README.md)
   * [config.yml](zh-cn/configuration-file/config.yml.md)
+
+## 🦁 English <a href="#en-us" id="en-us"></a>
+
+* [Quick Start](en-us/quick-start.md)
