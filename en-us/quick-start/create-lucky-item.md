@@ -21,7 +21,7 @@ Executing these commands requires permission：SkyPvP.admin
   
   <tr>
     <td>
-      /LuckItem add <type> <weight>
+      /LuckItem add \<type> \<weight>
     </td>
     
     <td>
@@ -31,7 +31,7 @@ Executing these commands requires permission：SkyPvP.admin
   
   <tr>
     <td>
-      /LuckItem display <type>
+      /LuckItem display \<type>
     </td>
     
     <td>
