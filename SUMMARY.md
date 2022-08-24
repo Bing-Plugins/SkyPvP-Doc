@@ -27,7 +27,7 @@
   * [Set Kit](en-us/quick-start/set-kit.md)
   * [Set Respawn Point](en-us/quick-start/set-respawn-point.md)
 * [Function](en-us/function/README.md)
-  * [幸运方块类型](en-us/function/lucky-block-type.md)
+  * [Luck Block Type](en-us/function/lucky-block-type.md)
   * [Luckly Item Weight](en-us/function/lucky-item-weight.md)
   * [PAPI Placeholder](en-us/function/papi-placeholder.md)
 * [Other Commands](en-us/other-commands/README.md)
