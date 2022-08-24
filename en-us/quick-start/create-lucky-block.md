@@ -9,21 +9,21 @@
 ## New Lucky Block
 
 1. Find the location where you want to create the lucky block.
-2. Use in this locatio n`/Luckblock add <quality>`command,see [ this page ](../gong-neng/xing-yun-fang-kuai-pin-zhi.md)for the allowable quality.
+2. 在此位置使用 `/LuckBlock add <品质>` 命令，允许的品质见[此页](../gong-neng/xing-yun-fang-kuai-pin-zhi.md)。
 3. Lucky blocks will be generated and saved immediately in your location.
 
 ## New Display with Lucky Block
 
-The display is almost identical to the normal lucky block creation method, but command `/LuckBlock display <quality>`.
+展示用幸运方块与正常的幸运方块创建方法几乎一致，但指令为 `/LuckBlock display <品质>`。
 
 {% hint style="info" %}
-Displays the quality of Random type not supported by lucky blocks
+展示用幸运方块不支持 Random 类型的品质
 {% endhint %}
 
 ## Remove Lucky Blocks
 
 1. Find the lucky block you want to delete.
-2. Use /LuckBlock remove command.
+2. 使用 /LuckBlock remove 命令。
 3. Right click the lucky block you want to delete.
 4. Lucky blocks will be deleted and saved immediately.
 
