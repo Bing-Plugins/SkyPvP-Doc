@@ -1,2 +1,2 @@
-# Profile
+# Configuration File
 
