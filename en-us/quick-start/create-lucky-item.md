@@ -1,8 +1,8 @@
-- - -
-description: Lucky items are items that fall after opening a lucky block. If a lucky block of quality does not have an item, nothing will be done when opening a lucky block.
-- - -
-
 # New Lucky Item
+
+{% hint style="info" %}
+Lucky items are items that fall after opening a lucky block. If a lucky block of quality does not have an item, nothing will be done when opening a lucky block.
+{% endhint %}
 
 {% hint style="success" %}
 Executing these commands requires permission：SkyPvp.admin
