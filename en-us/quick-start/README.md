@@ -1,3 +1,3 @@
-# 配置文件
+# Quick Start
 
-你或许是刚拿到插件，现在跟着我一起配置插件吧！
+You may just get the plugin, configure the plugin with me now!
