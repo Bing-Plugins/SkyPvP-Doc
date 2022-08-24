@@ -1,0 +1,9 @@
+files:
+  - source: /zh-cn/quick-start/
+    translation: /%locale%/quick-start/%original_file_name%
+  - source: /zh-cn/function
+    translation: /%locale%/quick-start/%original_file_name%
+  - source: /zh-cn/other-commands
+    translation: /%locale%/quick-start/%original_file_name%
+  - source: /zh-cn/configuration-file
+    translation: /%locale%/quick-start/%original_file_name%

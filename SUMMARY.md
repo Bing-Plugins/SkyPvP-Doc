@@ -2,7 +2,36 @@
 
 * [Welcome to BingSkyPvP Guide](README.md)
 
-## 简体中文 <a href="#zh-cn" id="zh-cn"></a>
+## 🐔 简体中文 <a href="#zh-cn" id="zh-cn"></a>
 
 * [快速开始](zh-cn/quick-start/README.md)
   * [新建幸运方块](zh-cn/quick-start/create-lucky-block.md)
+  * [新建幸运物品](zh-cn/quick-start/create-lucky-item.md)
+  * [设置套装](zh-cn/quick-start/set-kit.md)
+  * [设置重生点](zh-cn/quick-start/set-respawn-point.md)
+* [功能](zh-cn/function/README.md)
+  * [幸运方块类型](zh-cn/function/lucky-block-type.md)
+  * [幸运物品权重](zh-cn/function/lucky-item-weight.md)
+  * [PAPI 占位符](zh-cn/function/papi-placeholder.md)
+* [其他命令](zh-cn/other-commands/README.md)
+  * [玩家返回重生点](zh-cn/other-commands/player-return-spawn-point.md)
+  * [重载插件](zh-cn/other-commands/reload-plugin.md)
+* [配置文件](zh-cn/configuration-file/README.md)
+  * [config.yml](zh-cn/configuration-file/config.yml.md)
+
+## 🦁 English <a href="#en-us" id="en-us"></a>
+
+* [Quick Start](en-us/quick-start/README.md)
+  * [Create Lucky Block](en-us/quick-start/create-lucky-block.md)
+  * [Create Lucky Item](en-us/quick-start/create-lucky-item.md)
+  * [Set Kit](en-us/quick-start/set-kit.md)
+  * [Set Respawn Point](en-us/quick-start/set-respawn-point.md)
+* [Function](en-us/function/README.md)
+  * [幸运方块类型](en-us/function/lucky-block-type.md)
+  * [幸运物品权重](en-us/function/lucky-item-weight.md)
+  * [PAPI 占位符](en-us/function/papi-placeholder.md)
+* [Other Commands](en-us/other-commands/README.md)
+  * [玩家返回重生点](en-us/other-commands/player-return-spawn-point.md)
+  * [重载插件](en-us/other-commands/reload-plugin.md)
+* [Configuration File](en-us/configuration-file/README.md)
+  * [config.yml](en-us/configuration-file/config.yml.md)
