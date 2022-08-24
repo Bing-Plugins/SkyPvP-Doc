@@ -1,47 +1,47 @@
 - - -
-description: 幸运物品就是打开幸运方块后掉落的物品，如果一个品质的幸运方块未设置物品，那么开启幸运方块后则会什么都不掉。
+description: Lucky items are items that fall after opening a lucky block. If a lucky block of quality does not have an item, nothing will be done when opening a lucky block.
 - - -
 
-# 新建幸运物品
+# New Lucky Item
 
 {% hint style="success" %}
-执行这些命令需要权限：SkyPvP.admin
+Executing these commands requires permission：SkyPvp.admin
 {% endhint %}
 
-| 命令                      | 描述           |
-| ----------------------- | ------------ |
-| /LuckItem add <品质> <权重> | 将手持物品设置为幸运物品 |
-| /LuckItem display <品质>  | 预览幸运物品       |
+| Commands                | Description                       |
+| ----------------------- | --------------------------------- |
+| /LuckItem add <品质> <权重> | Set handheld items as lucky items |
+| /LuckItem display <品质>  | Preview lucky items               |
 
-## 什么是权重？
+## What is weight?
 
-权重用于计算物品被选中的概率，权重必须为正整数，最低为0，权重越大被选中的概率越大。
+The weight must be a positive integer and a minimum of 0, the greater the probability of being selected.
 
-注意：权重 ≠ 百分比
+Note：weight ≠ percentage of sex
 
-## 新建幸运物品
+## New Lucky Item
 
-添加幸运物品有两种方式，一个是直接使用命令。另一种是在 GUI 中点击新建。
+There are two ways to add lucky items, one is a direct use command.Another type is new in the GUI clicked.
 
-可用的品质类别详见[此页面](broken-reference)。
+For available quality categories, see[this page](broken-reference).
 
-### 方法一：直接使用命令新建（推荐）
+### Method 1：Direct Use Command New (recommended)
 
-1. 手持要添加的物品
-2. 使用 `/LuckItem add <品质> <权重>` 命令。
-3. 完成添加操作。
+1. Handheld items to add
+2. Use `/LuckItem add <quality> <weight>` command.
+3. Finished adding action.
 
-### 方法二：从 GUI 中新建
+### Method 2：New from GUI
 
-1. 手持要添加的物品。
-2. 打开 GUI。
-3. 点击 GUI 底部的铁砧添加物品。
-4. 填入权重。
-5. 完成添加。
+1. Handheld items to add.
+2. Open GUI.
+3. Add an item by clicking the Anvil of the GUI bottom.
+4. Enter weight.
+5. Finished adding
 
-## 移除幸运物品
+## Remove lucky items
 
-移除幸运物品的方式仅有一种，只能从 GUI 中移除。
+Only one way to remove lucky items can be removed from the GUI.
 
 1. 使用 `/LuckItem display <品质>` 命令打开 GUI。
 2. 找到你要移除的幸运物品。
