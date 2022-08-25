@@ -2,9 +2,9 @@
 
 ```yaml
 Ranks:
-  # 这里的数字其实就是起始的位置
-  # 达到了就显示对应的 Rank
-  # 键一定要为数字
+  # The number here is really the starting position
+  # Shows the corresponding Rank
+  # To show the corresponding number
   0: "0"
   10: "1"
   20: "2"
@@ -18,4 +18,4 @@ Ranks:
   100: "10"
 ```
 
-根据击杀数显示的 Rank，右侧的值可以不是数字，可以是带颜色符号的字符串。
+Rank's value on the right can not be a number based on the number of kills, it can be a string with colorful symbols.
