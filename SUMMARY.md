@@ -38,7 +38,7 @@
   * [Player Return Spawn Point](en-us/other-commands/player-return-spawn-point.md)
   * [Reload Plugin](en-us/other-commands/reload-plugin.md)
 * [Configuration File](en-us/configuration-file/README.md)
-  * [Lang.yml](en-us/configuration-file/lang.yml.md)
+  * [Lang.yml](en-us/configuration-file/lang.md)
   * [config.yml](en-us/configuration-file/config.md)
   * [LootChest.yml](en-us/configuration-file/loot-chest.md)
   * [Booster.yml](en-us/configuration-file/booster.md)
