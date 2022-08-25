@@ -41,17 +41,16 @@ Random:
 
 ## texture
 
-The texture of the lucky square skull can be modified.
+幸运方块头颅的 texture，可修改。
 
 ## respawnTime
 
-This type of lucky block is generated again.
+此类型幸运方块再次生成时间。
 
 ## display
 
-Show the coordinates of the lucky block.
+展示用幸运方块的坐标。
 
 ## items
 
-Such lucky blocks do not usually require manual modification.
-
+此类型幸运方块的幸运物品，通常不需要手动修改。
