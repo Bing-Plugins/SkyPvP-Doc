@@ -8,22 +8,22 @@ Lucky items are items that fall after opening a lucky block. If a lucky block of
 Executing these commands requires permission：SkyPvP.admin
 {% endhint %}
 
-| Commands                          | Description  |
-| --------------------------------- | ------------ |
-| /LuckItem add \<type> \<weight> | 将手持物品设置为幸运物品 |
-| /LuckItem display                 | 预览幸运物品       |
+| Commands                          | Description                       |
+| --------------------------------- | --------------------------------- |
+| /LuckItem add \<type> \<weight> | Set handheld items as lucky items |
+| /LuckItem display                 | Preview lucky items               |
 
-## 什么是权重？
+## What is weight?
 
-权重用于计算物品被选中的概率，权重必须为正整数，最低为0，权重越大被选中的概率越大。
+The weight must be a positive integer and a minimum of 0, the greater the probability of being selected.
 
-注意：权重 ≠ 百分比
+Note：weight ≠ percentage of sex
 
-## 新建幸运物品
+## New Lucky Item
 
-添加幸运物品有两种方式，一个是直接使用命令。另一种是在 GUI 中点击新建。&#x20;另一种是在 GUI 中点击新建。&#x20;
+There are two ways to add lucky items, one is a direct use command.Another type is new in the GUI clicked.&#x20;
 
-可用的品质类别详见[此页面](../function/lucky-block-type.md)。
+For available quality categories, see[this page](../function/lucky-block-type.md).
 
 ### 方法一：直接使用命令新建（推荐）
 
