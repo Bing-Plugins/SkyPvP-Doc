@@ -1,5 +1,5 @@
 # Lang.yml
 
-语言文件中包含了此插件绝大部分的语句。
+The language file contains the majority of this plugin's statements.
 
-对于在聊天框的消息，你可以通过将它的值设置为 `""` 来取消此消息的发送。
+For messages in chat box, you can cancel this message by setting its value to `""`.

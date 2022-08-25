@@ -8,10 +8,10 @@ Lucky items are items that fall after opening a lucky block. If a lucky block of
 Executing these commands requires permission：SkyPvP.admin
 {% endhint %}
 
-| Commands                          | Description                       |
-| --------------------------------- | --------------------------------- |
-| /LuckItem add \<type> \<weight> | Set handheld items as lucky items |
-| /LuckItem display                 | Preview lucky items               |
+| Commands                           | Description                       |
+| ---------------------------------- | --------------------------------- |
+| /LuckyItem add \<type> \<weight> | Set handheld items as lucky items |
+| /LuckyItem gui                     | Preview lucky items               |
 
 ## What is weight?
 
@@ -23,12 +23,10 @@ Note：weight ≠ percentage of sex
 
 There are two ways to add lucky items, one is a direct use command.Another type is new in the GUI clicked.&#x20;Another type is new in the GUI clicked.&#x20;
 
-For available quality categories, see[this page](../function/lucky-block-type.md).
-
 ### Method 1：Direct Use Command New (recommended)
 
 1. Handheld items to add
-2. Use `/LuckItem add <type> <weight>` command.
+2. 使用 `/LuckyItem add <类型> <权重>` 命令。
 3. Finished adding action.
 
 ### Method 2：New from GUI
@@ -43,7 +41,7 @@ For available quality categories, see[this page](../function/lucky-block-type.md
 
 Only one way to remove lucky items can be removed from the GUI.
 
-1. Open GUI using the `/LuckItem display <type>` command.
+1. 使用 `/LuckyItem gui <类型>` 命令打开 GUI。
 2. Find the lucky items you want to remove.
 3. Shift + right this item.
 4. Complete removal.

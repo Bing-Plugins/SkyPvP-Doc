@@ -19,7 +19,7 @@ Executing these commands requires permission: SkyPvP.admin
 Only one set is currently supported.
 {% endhint %}
 
-1. Use `/LuckKit set` command.
+1. 使用 `/LuckKit set` 命令。
 2. Put what needs to be set into your inventory.
 3. Finish setting suit.
 
@@ -29,5 +29,5 @@ Only one set is currently supported.
 This can be used primarily for testing, or manually to fetch the suit
 {% endhint %}
 
-1. Use `/LuckKit get` command.
+1. 使用 `/LuckKit get` 命令。
 2. Packages will be replaced with your inventory.
