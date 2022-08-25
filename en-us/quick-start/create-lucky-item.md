@@ -25,25 +25,25 @@ There are two ways to add lucky items, one is a direct use command.Another type 
 
 For available quality categories, see[this page](../function/lucky-block-type.md).
 
-### 方法一：直接使用命令新建（推荐）
+### Method 1：Direct Use Command New (recommended)
 
-1. 手持要添加的物品
-2. 使用 `/LuckItem add <类型> <权重>` 命令。
-3. 完成添加操作。
+1. Handheld items to add
+2. Use `/LuckItem add <type> <weight>` command.
+3. Finished adding action.
 
-### 方法二：从 GUI 中新建
+### Method 2：New from GUI
 
-1. 手持要添加的物品。
-2. 打开 GUI。
-3. 点击 GUI 底部的铁砧添加物品。
-4. 填入权重。
-5. 完成添加。
+1. Handheld items to add.
+2. Open GUI.
+3. Add an item by clicking the Anvil of the GUI bottom.
+4. Enter weight.
+5. Finished adding
 
-## 移除幸运物品
+## Remove lucky items
 
-移除幸运物品的方式仅有一种，只能从 GUI 中移除。
+Only one way to remove lucky items can be removed from the GUI.
 
-1. 使用 `/LuckItem display <类型>` 命令打开 GUI。
-2. 找到你要移除的幸运物品。
+1. Open GUI using the `/LuckItem display <type>` command.
+2. Find the lucky items you want to remove.
 3. Shift + 右键 此物品。
 4. 完成移除。
