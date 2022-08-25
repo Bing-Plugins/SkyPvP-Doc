@@ -8,10 +8,10 @@ Kit will be replaced with the inventory when the player first enters the server 
 Executing these commands requires permission: SkyPvP.admin
 {% endhint %}
 
-| Commands      | Description                                       |
-| ------------- | ------------------------------------------------- |
-| /LuckyKit set | Set the item in the current inventory to the suit |
-| /LuckyKit get | Get the suit into the backpack                    |
+| Commands     | Description                                       |
+| ------------ | ------------------------------------------------- |
+| /LuckKit set | Set the item in the current inventory to the suit |
+| /LuckKit get | Get the suit into the backpack                    |
 
 ## Set Suit
 
@@ -19,8 +19,8 @@ Executing these commands requires permission: SkyPvP.admin
 Only one set is currently supported.
 {% endhint %}
 
-1. Put what needs to be set into your inventory.
-2. 使用 `/LuckyKit set` 命令。
+1. 使用 `/LuckKit set` 命令。
+2. Put what needs to be set into your inventory.
 3. Finish setting suit.
 
 ## Get Suit
@@ -29,5 +29,5 @@ Only one set is currently supported.
 This can be used primarily for testing, or manually to fetch the suit
 {% endhint %}
 
-1. 使用 `/LuckyKit get` 命令。
+1. 使用 `/LuckKit get` 命令。
 2. Packages will be replaced with your inventory.
