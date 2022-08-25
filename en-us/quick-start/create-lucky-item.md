@@ -21,7 +21,7 @@ Note：weight ≠ percentage of sex
 
 ## New Lucky Item
 
-There are two ways to add lucky items, one is a direct use command.Another type is new in the GUI clicked.&#x20;
+There are two ways to add lucky items, one is a direct use command.Another type is new in the GUI clicked.&#x20;Another type is new in the GUI clicked.&#x20;
 
 For available quality categories, see[this page](../function/lucky-block-type.md).
 
