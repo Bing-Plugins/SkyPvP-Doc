@@ -39,3 +39,7 @@
   * [Reload Plugin](en-us/other-commands/reload-plugin.md)
 * [Configuration File](en-us/configuration-file/README.md)
   * [config.yml](en-us/configuration-file/config.md)
+  * [Lang.yml](en-us/configuration-file/lang.yml.md)
+  * [LootChest.yml](en-us/configuration-file/loot-chest.md)
+  * [Booster.yml](en-us/configuration-file/booster.md)
+  * [Rank.yml](en-us/configuration-file/rank.md)
