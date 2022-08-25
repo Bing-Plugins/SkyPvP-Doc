@@ -17,10 +17,10 @@
   * [玩家返回重生点](zh-cn/other-commands/player-return-spawn-point.md)
   * [重载插件](zh-cn/other-commands/reload-plugin.md)
 * [配置文件](zh-cn/configuration-file/README.md)
+  * [Booster.yml](zh-cn/configuration-file/booster.md)
   * [config.yml](zh-cn/configuration-file/config.md)
   * [LootChest.yml](zh-cn/configuration-file/loot-chest.md)
   * [Rank.yml](zh-cn/configuration-file/rank.md)
-  * [Booster.yml](zh-cn/configuration-file/booster.yml.md)
   * [Lang.yml](zh-cn/configuration-file/lang.yml.md)
 
 ## 🦁 English <a href="#en-us" id="en-us"></a>
