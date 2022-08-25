@@ -21,6 +21,7 @@
   * [LootChest.yml](zh-cn/configuration-file/loot-chest.md)
   * [Rank.yml](zh-cn/configuration-file/rank.md)
   * [Booster.yml](zh-cn/configuration-file/booster.yml.md)
+  * [Lang.yml](zh-cn/configuration-file/lang.yml.md)
 
 ## 🦁 English <a href="#en-us" id="en-us"></a>
 
