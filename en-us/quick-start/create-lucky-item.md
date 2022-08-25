@@ -11,7 +11,7 @@ Executing these commands requires permission：SkyPvP.admin
 | Commands                           | Description                       |
 | ---------------------------------- | --------------------------------- |
 | /LuckyItem add \<type> \<weight> | Set handheld items as lucky items |
-| /LuckyItem display                 | Preview lucky items               |
+| /LuckyItem gui                     | Preview lucky items               |
 
 ## What is weight?
 
@@ -41,7 +41,7 @@ There are two ways to add lucky items, one is a direct use command.Another type 
 
 Only one way to remove lucky items can be removed from the GUI.
 
-1. 使用 `/LuckyItem display <类型>` 命令打开 GUI。
+1. 使用 `/LuckyItem gui <类型>` 命令打开 GUI。
 2. Find the lucky items you want to remove.
 3. Shift + right this item.
 4. Complete removal.
