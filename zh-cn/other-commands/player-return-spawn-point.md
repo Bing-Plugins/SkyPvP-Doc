@@ -14,4 +14,4 @@
 
 * 执行命令时未处于战斗状态。
 * 等待传送时，未被攻击 & 移动。
-* 管理员已通过[此方法](../pei-zhi-you-xi/ru-he-she-zhi-chu-sheng-dian.md)设置出生点。
+* 管理员已通过`/SkyPvP setSpawn`设置出生点。
