@@ -19,6 +19,7 @@
 * [配置文件](zh-cn/configuration-file/README.md)
   * [config.yml](zh-cn/configuration-file/config.md)
   * [LootChest.yml](zh-cn/configuration-file/loot-chest.md)
+  * [Rank.yml](zh-cn/configuration-file/rank.md)
 
 ## 🦁 English <a href="#en-us" id="en-us"></a>
 
