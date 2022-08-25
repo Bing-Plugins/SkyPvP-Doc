@@ -34,7 +34,7 @@ There are two ways to add lucky items, one is a direct use command.Another type 
 1. Handheld items to add.
 2. Open GUI.
 3. Add an item by clicking the Anvil of the GUI bottom.
-4. Enter weight.
+4. 在铁砧页面填入权重。
 5. Finished adding
 
 ## Remove lucky items
