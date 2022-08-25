@@ -18,7 +18,10 @@
   * [重载插件](zh-cn/other-commands/reload-plugin.md)
 * [配置文件](zh-cn/configuration-file/README.md)
   * [config.yml](zh-cn/configuration-file/config.md)
+  * [Lang.yml](zh-cn/configuration-file/lang.yml.md)
   * [LootChest.yml](zh-cn/configuration-file/loot-chest.md)
+  * [Booster.yml](zh-cn/configuration-file/booster.md)
+  * [Rank.yml](zh-cn/configuration-file/rank.md)
 
 ## 🦁 English <a href="#en-us" id="en-us"></a>
 
@@ -36,3 +39,7 @@
   * [Reload Plugin](en-us/other-commands/reload-plugin.md)
 * [Configuration File](en-us/configuration-file/README.md)
   * [config.yml](en-us/configuration-file/config.md)
+  * [Lang.yml](en-us/configuration-file/lang.yml.md)
+  * [LootChest.yml](en-us/configuration-file/loot-chest.md)
+  * [Booster.yml](en-us/configuration-file/booster.md)
+  * [Rank.yml](en-us/configuration-file/rank.md)
