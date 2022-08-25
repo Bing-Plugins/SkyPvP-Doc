@@ -1,37 +1,37 @@
 # config.yml
 
 ```yaml
-# Token 认证令牌
-# 将购买后给的令牌填到此处
+# Token authentication token
+# Fill in the token given after purchase
 Token: ""
 
-# 战斗模式持续时间
+# Combat mode duration
 Combat-Time: 10
 
-# 传送等待时间
+# Transmission waiting time
 Spawn-Cool-Down: 3
 
-# 击杀给予经济
+# Kill give economy
 Kill-Coins: 10
 
-# 死亡保留经验
+# Death retention experience
 Keep-Death-Exp: false
 
-# 进入游戏几秒内无伤害 (不建议设置为 0)
+# No damage in a few seconds after entering the game (it is not recommended to set it to 0)
 No-Damage-On-Join: 3
 
-# 击如虚空时, 认定多少秒内的攻击者为杀手
+# When the attack is empty, how many seconds can the attacker be identified as a killer
 Void-Kill-Time: 10
 
-# 自定义打开幸运方块声音
+# Custom open lucky box sound
 # 1.8 LEVEL_UP
 # 1.9+ ENTITY_PLAYER_LEVELUP
 Open-Loot-Sound: ""
 
-# 出生位置
+# Place of birth
 Spawn-Loc: ""
 
-# 数据部分
+# Data section
 MySQL:
   host: mysql.yistars.net
   port: 3306
@@ -42,38 +42,38 @@ MySQL:
 
 ## Token
 
-购买后联系插件作者获取的 Token，需要正确填入 Token，插件才可以正常运行。
+The Token, acquired by the plugin author after purchase, needs to be entered correctly in Token before the plugin can function properly.
 
 ## Combat-Time
 
-当玩家攻击其他玩家/被其他玩家攻击后，多久退出战斗模式。
+How often will a player quit the battle mode when the player hits another players/is attacked by another player.
 
-战斗模式下离开游戏，会直接使玩家死亡，掉落背包物品。
+Leaving the game in battle mode directly causes the player to die, drop the inventory item.
 
 ## Spawn-Cool-Down
 
-玩家使用 `/spawn` 命令后需要等待多久才会传送。
+How long it will take to wait until the player uses `/spawn` commands before they can be transported.
 
 ## Keep-Death-Exp
 
-玩家死亡后是否保留经验。
+Whether the player retains experience after death.
 
 ## No-Damage-On-Join
 
-玩家进入游戏后多少秒不会受到伤害。起初此功能是为了防止玩家从虚空传送到出生点时，因为 Minecraft 的特性，导致玩家摔死而设计的。所以不建议将此值设置的过小。
+How many seconds players will not be hurt after they enter the game.This feature was originally designed to prevent players from sending them from the vacuum to the spawn point because of Minecraft characteristics, causing players to fall dead.So it is not recommended to set this value too small.
 
 ## Void-Kill-Time
 
-当一名玩家在因为坠入虚空而死亡时，判定多少秒内对他攻击的玩家为击杀者。
+When a player dies as a result of a crash in the sky, determine how many seconds the player who attacked him is the killer.
 
 ## Open-Loot-Sound
 
-打开幸运方块时的声音。
+Sound when opening lucky blocks.
 
 ## Spawn-Loc
 
-重生点的坐标，通常情况下，不需要自己填写。你可以使用 `/SkyPvP setSpawn` 命令设置。
+The coordinates of the respawn point, usually not by itself.You can use the `/SkyPvP setSpawn` command to set.
 
 ## MySQL
 
-目前仅支持 MySQL 数据库，正常填写即可。
+Only MySQL databases are currently supported.
