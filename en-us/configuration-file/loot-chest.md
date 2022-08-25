@@ -54,4 +54,3 @@ Show the coordinates of the lucky block.
 ## items
 
 Such lucky blocks do not usually require manual modification.
-
