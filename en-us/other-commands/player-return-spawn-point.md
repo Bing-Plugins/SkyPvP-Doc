@@ -14,4 +14,4 @@ The player needs to meet the following preconditions when executing the return t
 
 * Command not in combat while executing the command.
 * Waiting for transfer, not moved by attack &.
-* 管理员已通过`/SkyPvP setSpawn`设置出生点。
+* The administrator has set the birth point through `/Skypvp setSpawn`.
