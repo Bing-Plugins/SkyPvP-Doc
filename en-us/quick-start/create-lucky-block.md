@@ -12,7 +12,7 @@
 
 We offer two ways to create lucky blocks.
 
-### Method：Use Command
+### Method: Use Command
 
 1. Find the location where you want to create the lucky block.
 2. Execute command `/LuckyBlock add <type>`
