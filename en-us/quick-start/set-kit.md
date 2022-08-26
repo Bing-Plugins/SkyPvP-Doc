@@ -20,7 +20,7 @@ Only one set is currently supported.
 {% endhint %}
 
 1. Put what needs to be set into your inventory.
-2. 使用 `/LuckyKit set` 命令。
+2. Use `/LuckyKit set` command.
 3. Finish setting suit.
 
 ## Get Suit
@@ -29,5 +29,5 @@ Only one set is currently supported.
 This can be used primarily for testing, or manually to fetch the suit
 {% endhint %}
 
-1. 使用 `/LuckyKit get` 命令。
-2. 套装会替换到你的背包。
+1. Use `/LuckyKit get` command.
+2. Packages will be replaced with your inventory.
