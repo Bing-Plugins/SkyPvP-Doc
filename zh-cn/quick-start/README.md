@@ -13,9 +13,9 @@
 
 ## 第二步：填写配置文件
 
-1. 将 `BingSkyPvP.jar` 放入 `plugins` 文件夹。
+1. 将 `BingSkyPvP-{version}.jar` 放入 `plugins` 文件夹。
 2. 运行一次服务器，然后关闭它。
 3. 在 `plugins` 文件夹中找到 `BingSkyPvP` 文件夹。
 4. 在 `config.yml` 中的 `Token` 中填入发送给你的 `Token`。
 5. 在 `config.yml` 中填入你的 MySQL 信息。
-6. 启动服务器，继续配置插件吧！
+6. 启动服务器，开始使用吧！
