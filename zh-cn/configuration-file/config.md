@@ -5,6 +5,9 @@
 # 将购买后给的令牌填到此处
 Token: ""
 
+# 更新检查器
+Update-Checker: true
+
 # 战斗模式持续时间
 Combat-Time: 10
 
