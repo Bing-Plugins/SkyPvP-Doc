@@ -5,6 +5,9 @@
 # 将购买后给的令牌填到此处
 Token: ""
 
+# 更新检查器
+Update-Checker: true
+
 # 战斗模式持续时间
 Combat-Time: 10
 
@@ -43,6 +46,10 @@ MySQL:
 ## Token
 
 购买后联系插件作者获取的 Token，需要正确填入 Token，插件才可以正常运行。
+
+## Update-Checker
+
+当拥有 `SkyPvP.admin` 权限的玩家将会在进入服务器的时候收到插件更新通知。
 
 ## Combat-Time
 
