@@ -16,7 +16,7 @@ We offer two ways to create lucky blocks.
 
 <figure>
 
-![](../../.gitbook/assets/Create Lucky Block by Command.gif)<figcaption></figcaption></figure>
+![](../../.gitbook/assets/Create Lucky Block by Command (1).gif)<figcaption></figcaption></figure>
 
 1. Find the location where you want to create the lucky block.
 2. Execute command `/LuckyBlock add <type>`
