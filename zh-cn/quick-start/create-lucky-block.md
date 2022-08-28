@@ -14,6 +14,8 @@
 
 ### 方法一：使用命令
 
+<figure><img src="../../.gitbook/assets/Create Lucky Block by Command (1).gif" alt=""><figcaption></figcaption></figure>
+
 1. 找到你要新建幸运方块的位置。
 2. 执行命令 `/LuckyBlock add <type>`。
 3. 完成创建。
