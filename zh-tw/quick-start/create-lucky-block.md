@@ -16,7 +16,7 @@
 
 <figure>
 
-![](../../.gitbook/assets/Create Lucky Block by Command.gif)<figcaption></figcaption></figure>
+![](../../.gitbook/assets/Create Lucky Block by Command (1).gif)<figcaption></figcaption></figure>
 
 1. 找到你要新建幸运方块的位置。
 2. 执行命令 `/LuckyBlock add <type>`。
