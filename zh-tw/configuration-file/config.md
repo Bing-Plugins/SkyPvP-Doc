@@ -2,7 +2,7 @@
 
 ```yaml
 # Token 认证令牌
-# 如果你从 SpigotMC 或 BuiltByBit(MC-Market) 购买则无需填写 Token
+# 如果你从 SpigotMC 购买则无需填写 Token
 Token: ""
 
 # 更新检查器
