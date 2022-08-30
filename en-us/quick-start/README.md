@@ -2,10 +2,13 @@
 
 ## Step 1: Get Token
 
-1. Buy this plugin on SpigotMC
-2. Contact me via [Discord](https://discord.gg/MZ74zFevCD) or email (Bing\_Yanchi@outlook.com).
-3. 将你的 `Discord#ID` 或 `邮箱`  发在你的 “Profile Posts” 中，以验证身份。
-4. I will send your token to you.
+{% hint style="success" %}
+如果你从 SpigotMC 购买插件，可跳过此步骤。
+{% endhint %}
+
+1. Contact me via [Discord](https://discord.gg/MZ74zFevCD) or email (Bing\_Yanchi@outlook.com).
+2. 将你的 `Discord#ID` 或 `邮箱`  发在你的 “Profile Posts” 中，以验证身份。
+3. I will send your token to you.
 
 {% hint style="warning" %}
 Keep your token properly. Your token may be disabled if abuse is detected.
