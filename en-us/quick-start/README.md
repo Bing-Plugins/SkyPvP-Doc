@@ -3,7 +3,7 @@
 ## Step 1: Get Token
 
 {% hint style="success" %}
-如果你从 SpigotMC 购买插件，可跳过此步骤。
+如果你从 SpigotMC 或 BuiltByBit(MC-Market) 购买插件，可跳过此步骤。
 {% endhint %}
 
 1. Contact me via [Discord](https://discord.gg/MZ74zFevCD) or email (Bing\_Yanchi@outlook.com).
