@@ -2,10 +2,13 @@
 
 ## Step 1: Get Token
 
-1. Buy this plugin on SpigotMC
-2. Contact me via [Discord](https://discord.gg/MZ74zFevCD) or email (Bing\_Yanchi@outlook.com).
-3. Send my provided string to your "Profile Posts" to authenticate.
-4. I will send your token to you.
+{% hint style="success" %}
+If you buy a plugin from SpecotMC or BuiltByBit(MC-Market), you can skip this step.
+{% endhint %}
+
+1. Contact me via [Discord](https://discord.gg/MZ74zFevCD) or email (Bing\_Yanchi@outlook.com).
+2. Send your `Discord#ID` or `email`  in your "Profile Posts" to authenticate.
+3. I will send your token to you.
 
 {% hint style="warning" %}
 Keep your token properly. Your token may be disabled if abuse is detected.

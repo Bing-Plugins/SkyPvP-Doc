@@ -2,7 +2,7 @@
 
 ```yaml
 # Token 认证令牌
-# 将购买后给的令牌填到此处
+# 如果你从 SpigotMC 购买则无需填写 Token
 Token: ""
 
 # 更新检查器

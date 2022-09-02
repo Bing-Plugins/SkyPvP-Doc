@@ -2,10 +2,13 @@
 
 ## 第一步：获取 Token
 
-1. 在 SpigotMC 购买此插件。
-2. 通过 [Discord](https://discord.gg/MZ74zFevCD) 或 邮箱( Bing\_Yanchi@outlook.com ) 联系我。
-3. 将我提供的字符串发在你的 “Profile Posts” 中，以验证身份。
-4. 我会将你的 Token 发送给你。
+{% hint style="success" %}
+如果你从 SpigotMC 或 BuiltByBit(MC-Market) 购买插件，可跳过此步骤。
+{% endhint %}
+
+1. 通过 [Discord](https://discord.gg/MZ74zFevCD) 或 邮箱( Bing\_Yanchi@outlook.com ) 联系我。
+2. 将你的 `Discord#ID` 或 `邮箱`  发在你的 “Profile Posts” 中，以验证身份。
+3. 我会将你的 Token 发送给你。
 
 {% hint style="warning" %}
 妥善保管你的 Token，如果发现滥用行为，你的 Token 可能会被禁用。
