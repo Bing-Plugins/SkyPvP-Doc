@@ -45,6 +45,10 @@ Random type is not supported with lucky blocks
 
 ## Remove Lucky Blocks
 
+<figure>
+
+![](../../.gitbook/assets/Remove Lucky Block by Stick.gif)<figcaption></figcaption></figure>
+
 1. Execute `/LuckBlock remove` command to remove sticks.
 2. Find the lucky block you want to delete.
 3. Right click the lucky block you want to delete.
