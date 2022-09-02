@@ -3,11 +3,11 @@
 ## Step 1: Get Token
 
 {% hint style="success" %}
-如果你从 SpigotMC 或 BuiltByBit(MC-Market) 购买插件，可跳过此步骤。
+If you buy a plugin from SpecotMC or BuiltByBit(MC-Market), you can skip this step.
 {% endhint %}
 
 1. Contact me via [Discord](https://discord.gg/MZ74zFevCD) or email (Bing\_Yanchi@outlook.com).
-2. 将你的 `Discord#ID` 或 `邮箱`  发在你的 “Profile Posts” 中，以验证身份。
+2. Send your `Discord#ID` or `email`  in your "Profile Posts" to authenticate.
 3. I will send your token to you.
 
 {% hint style="warning" %}
