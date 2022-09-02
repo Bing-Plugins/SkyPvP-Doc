@@ -41,6 +41,8 @@
 
 ## 移除幸运方块
 
+<figure><img src="../../.gitbook/assets/Remove Lucky Block by Stick.gif" alt=""><figcaption></figcaption></figure>
+
 1. 执行 `/LuckBlock remove` 命令获取删除木棍。
 2. 找到你要删除的幸运方块。
 3. 手持木棍右键你要删除的幸运方块。
