@@ -5,7 +5,7 @@ Lucky items are items that fall after opening a lucky block. If a lucky block of
 {% endhint %}
 
 {% hint style="success" %}
-Executing these commands requires permission：SkyPvP.admin
+执行这些命令需要权限：SkyPvP.admin
 {% endhint %}
 
 | Commands                           | Description                       |

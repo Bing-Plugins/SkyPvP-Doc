@@ -16,13 +16,17 @@
 
 <figure>
 
-![](../../.gitbook/assets/Create Lucky Block by Command (1).gif)<figcaption></figcaption></figure>
+![](../../.gitbook/assets/Create Lucky Block by Command.gif)<figcaption></figcaption></figure>
 
 1. 找到你要新建幸运方块的位置。
 2. 执行命令 `/LuckyBlock add <type>`。
 3. 完成创建。
 
 ### 方法二：使用木棍
+
+<figure>
+
+![](../../.gitbook/assets/Create Lucky Block by Stick.gif)<figcaption></figcaption></figure>
 
 1. 执行命令 `/LuckyBlock add <type> stick`。
 2. 找到你要新建幸运方块的位置。
@@ -40,6 +44,10 @@
 {% endhint %}
 
 ## 移除幸运方块
+
+<figure>
+
+![](../../.gitbook/assets/Remove Lucky Block by Stick.gif)<figcaption></figcaption></figure>
 
 1. 执行 `/LuckBlock remove` 命令获取删除木棍。
 2. 找到你要删除的幸运方块。
