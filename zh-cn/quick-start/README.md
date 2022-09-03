@@ -23,4 +23,4 @@
 5. 在 `config.yml` 中填入你的 MySQL 信息。
 6. 启动服务器，开始使用吧！
 
-> 此简体中文指南由 Tang\_pudding 编写，感谢！
+> 此指南由 Tang\_pudding 编写，感谢！
