@@ -8,9 +8,6 @@ Token: ""
 # 更新检查器
 Update-Checker: true
 
-# Debug 模式
-Debug-Mode: false
-
 # 战斗模式持续时间
 Combat-Time: 10
 
@@ -28,9 +25,6 @@ No-Damage-On-Join: 3
 
 # 击如虚空时, 认定多少秒内的攻击者为杀手
 Void-Kill-Time: 10
-
-# 当玩家低于指定高度，认定为死亡
-Void-Kill-Height: -200
 
 # 自定义打开幸运方块声音
 # 1.8 LEVEL_UP
@@ -57,10 +51,6 @@ The Token, acquired by the plugin author after purchase, needs to be entered cor
 
 Players with `SkyPvP.admin` will receive plugin updates when entering the server.
 
-## Debug-Mode
-
-调试模式，仅限在测试版本中可用。在开发者帮助的情况下使用。
-
 ## Combat-Time
 
 How often will a player quit the battle mode when the player hits another players/is attacked by another player.
@@ -82,10 +72,6 @@ How many seconds players will not be hurt after they enter the game.This feature
 ## Void-Kill-Time
 
 When a player dies as a result of a crash in the sky, determine how many seconds the player who attacked him is the killer.
-
-## Void-Kill-Height
-
-当玩家低于此高度，判定该玩家死亡。
 
 ## Open-Loot-Sound
 
