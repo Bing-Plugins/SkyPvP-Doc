@@ -5,7 +5,7 @@
 {% endhint %}
 
 {% hint style="success" %}
-执行这些命令需要权限：SkyPvP.admin，但 /SkyPvP gui 需要权限为：SkyPvP.gui
+执行这些命令需要权限：SkyPvP.admin
 {% endhint %}
 
 | 命令                                 | 描述           |
