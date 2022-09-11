@@ -1,12 +1,12 @@
-# Create Lucky Block
+# New Lucky Block
 
-| Commands                          | Description                                            |
-| --------------------------------- | ------------------------------------------------------ |
+| Commands                           | Description                                            |
+| ---------------------------------- | ------------------------------------------------------ |
 | /LuckyBlock add \<type>           | Create a lucky block under the foot                    |
 | /LuckyBlock display \<type>       | Create a new lucky box for display at your feet        |
 | /LuckyBlock add \<type> stick     | Get a lucky block stick                                |
 | /LuckyBlock display \<type> stick | Get the lucky square wooden stick for creating display |
-| /LuckyBlock remove                | Get and delete lucky square wooden stick               |
+| /LuckyBlock remove                 | Get and delete lucky square wooden stick               |
 
 ## New Lucky Block
 
@@ -14,7 +14,9 @@ We offer two ways to create lucky blocks.
 
 ### Method: Use Command
 
-<figure><img src="../../.gitbook/assets/Create Lucky Block by Command.gif" alt=""><figcaption></figcaption></figure>
+<figure>
+
+![](../../.gitbook/assets/Create Lucky Block by Command.gif)<figcaption></figcaption></figure>
 
 1. Find the location where you want to create the lucky block.
 2. Execute command `/LuckyBlock add <type>`
@@ -22,7 +24,9 @@ We offer two ways to create lucky blocks.
 
 ### Method 2：Use Wooden Stick
 
-<figure><img src="../../.gitbook/assets/Create Lucky Block by Stick.gif" alt=""><figcaption></figcaption></figure>
+<figure>
+
+![](../../.gitbook/assets/Create Lucky Block by Stick.gif)<figcaption></figcaption></figure>
 
 1. Execute command `/LuckyBlock add <type> stick`.
 2. Find the location where you want to create a lucky block.
@@ -41,7 +45,9 @@ Random type is not supported with lucky blocks
 
 ## Remove Lucky Blocks
 
-<figure><img src="../../.gitbook/assets/Remove Lucky Block by Stick.gif" alt=""><figcaption></figcaption></figure>
+<figure>
+
+![](../../.gitbook/assets/Remove Lucky Block by Stick.gif)<figcaption></figcaption></figure>
 
 1. Execute `/LuckBlock remove` command to remove sticks.
 2. Find the lucky block you want to delete.
