@@ -1,40 +1,40 @@
 # config.yml
 
 ```yaml
-# Token 认证令牌
-# 如果你从 SpigotMC 购买则无需填写 Token
+# Token authentication token
+# If you purchase from spigotmc, you do not need to fill in the token
 Token: ""
 
-# 更新检查器
+# Update Checker
 Update-Checker: true
 
-# 战斗模式持续时间
+# Combat mode duration
 Combat-Time: 10
 
-# 传送等待时间
+# Transfer waiting time
 Spawn-Cool-Down: 3
 
-# 击杀给予经济
+# Kill giving economy
 Kill-Coins: 10
 
-# 死亡保留经验
+# Death retention experience
 Keep-Death-Exp: false
 
-# 进入游戏几秒内无伤害 (不建议设置为 0)
+# No damage in a few seconds after entering the game (it is not recommended to set it to 0)
 No-Damage-On-Join: 3
 
-# 击如虚空时, 认定多少秒内的攻击者为杀手
+# When the attack is empty, how many seconds can the attacker be identified as a killer
 Void-Kill-Time: 10
 
-# 自定义打开幸运方块声音
+# Custom open lucky box sound
 # 1.8 LEVEL_UP
 # 1.9+ ENTITY_PLAYER_LEVELUP
 Open-Loot-Sound: ""
 
-# 出生位置
+# Place of birth
 Spawn-Loc: ""
 
-# 数据部分
+# Data section
 MySQL:
   host: mysql.yistars.net
   port: 3306
