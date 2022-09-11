@@ -23,4 +23,4 @@ Keep your token properly. Your token may be disabled if abuse is detected.
 5. Enter your MySQL information in `config.yml`.
 6. Start the server, start using it!
 
-> 此指南由 Tang\_pudding 编写，感谢！
+> This guide is written by Tang_Pudding, thanks!
