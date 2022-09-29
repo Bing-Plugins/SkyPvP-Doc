@@ -1,40 +1,50 @@
 # config.yml
 
 ```yaml
-# Token authentication token
-# If you purchase from spigotmc, you do not need to fill in the token
+# Token 认证令牌
+# 如果你从 SpigotMC 购买则无需填写 Token
 Token: ""
 
-# Update Checker
+# 更新检查器
 Update-Checker: true
 
-# Combat mode duration
+# Debug 模式
+Debug-Mode: false
+
+# 战斗模式持续时间
 Combat-Time: 10
 
-# Transfer waiting time
+# 传送等待时间
 Spawn-Cool-Down: 3
 
-# Kill giving economy
+# 击杀给予经济
 Kill-Coins: 10
 
-# Death retention experience
+# 死亡保留经验
 Keep-Death-Exp: false
 
-# No damage in a few seconds after entering the game (it is not recommended to set it to 0)
+# 进入游戏几秒内无伤害 (不建议设置为 0)
 No-Damage-On-Join: 3
 
-# When the attack is empty, how many seconds can the attacker be identified as a killer
+# 击如虚空时, 认定多少秒内的攻击者为杀手
 Void-Kill-Time: 10
 
-# Custom open lucky box sound
+# 当玩家低于指定高度，认定为死亡
+Void-Kill-Height: -200
+
+# 自定义打开幸运方块声音
 # 1.8 LEVEL_UP
 # 1.9+ ENTITY_PLAYER_LEVELUP
 Open-Loot-Sound: ""
 
-# Place of birth
+# 出生位置
 Spawn-Loc: ""
 
-# Data section
+# 数据库类型
+# SQLite 或 MySQL
+Database: SQLite
+
+# 数据部分
 MySQL:
   host: mysql.yistars.net
   port: 3306
@@ -50,6 +60,10 @@ The Token, acquired by the plugin author after purchase, needs to be entered cor
 ## Update-Checker
 
 Players with `SkyPvP.admin` will receive plugin updates when entering the server.
+
+## Debug-Mode
+
+调试模式，仅限在测试版本中可用。在开发者帮助的情况下使用。
 
 ## Combat-Time
 
@@ -73,6 +87,10 @@ How many seconds players will not be hurt after they enter the game.This feature
 
 When a player dies as a result of a crash in the sky, determine how many seconds the player who attacked him is the killer.
 
+## Void-Kill-Height
+
+当玩家低于此高度，判定该玩家死亡。
+
 ## Open-Loot-Sound
 
 Sound when opening lucky blocks.
@@ -80,6 +98,10 @@ Sound when opening lucky blocks.
 ## Spawn-Loc
 
 The coordinates of the respawn point, usually not by itself.You can use the `/SkyPvP setSpawn` command to set.
+
+## Database
+
+数据库类型，根据你的需要进行选择。默认为 SQLite，如果你希望使用 MySQL，将这里的值修改为 MySQL 即可。
 
 ## MySQL
 
