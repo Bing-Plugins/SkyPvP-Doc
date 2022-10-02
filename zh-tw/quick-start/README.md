@@ -4,7 +4,7 @@
 
 {% hint style="success" %}
 如果你从 SpigotMC 或 BuiltByBit(MC-Market) 购买插件，可跳过此步骤。\
-Token 对你而言，仅在使用构建版本时才需要。
+Token 仅在使用构建版本时才需要。
 {% endhint %}
 
 1. 通过 [Discord](https://discord.gg/MZ74zFevCD) 或 邮箱( Bing\_Yanchi@outlook.com ) 联系我。
