@@ -1,50 +1,50 @@
 # config.yml
 
 ```yaml
-# Token 认证令牌
-# 如果你从 SpigotMC 购买则无需填写 Token
+# Token authentication token
+# If you purchase from SpigotMC, you do not need to fill in Token
 Token: ""
 
-# 更新检查器
+# Update Checker
 Update-Checker: true
 
-# Debug 模式
+# Debug mode
 Debug-Mode: false
 
-# 战斗模式持续时间
+# Duration of battle mode
 Combat-Time: 10
 
-# 传送等待时间
+# Transmission waiting time
 Spawn-Cool-Down: 3
 
-# 击杀给予经济
+# Kill the economy
 Kill-Coins: 10
 
-# 死亡保留经验
+# Death retention experience
 Keep-Death-Exp: false
 
-# 进入游戏几秒内无伤害 (不建议设置为 0)
+# No damage within a few seconds after entering the game (0 is not recommended)
 No-Damage-On-Join: 3
 
-# 击如虚空时, 认定多少秒内的攻击者为杀手
+# When you hit the void, you can identify the attacker as a killer for how many seconds
 Void-Kill-Time: 10
 
-# 当玩家低于指定高度，认定为死亡
+# When the player is below the specified height, it is considered dead
 Void-Kill-Height: -200
 
-# 自定义打开幸运方块声音
+# Custom Open Lucky Box Sound
 # 1.8 LEVEL_UP
 # 1.9+ ENTITY_PLAYER_LEVELUP
 Open-Loot-Sound: ""
 
-# 出生位置
+# Birthplace
 Spawn-Loc: ""
 
-# 数据库类型
+# Database Type
 # SQLite 或 MySQL
 Database: SQLite
 
-# 数据部分
+# Data section
 MySQL:
   host: mysql.yistars.net
   port: 3306
@@ -63,7 +63,7 @@ Players with `SkyPvP.admin` will receive plugin updates when entering the server
 
 ## Debug-Mode
 
-调试模式，仅限在测试版本中可用。在开发者帮助的情况下使用。
+Debug mode, only available in test version.Use with developer help.
 
 ## Combat-Time
 
@@ -89,7 +89,7 @@ When a player dies as a result of a crash in the sky, determine how many seconds
 
 ## Void-Kill-Height
 
-当玩家低于此高度，判定该玩家死亡。
+When a player is below this height, the player will be judged dead.
 
 ## Open-Loot-Sound
 
@@ -101,7 +101,7 @@ The coordinates of the respawn point, usually not by itself.You can use the `/Sk
 
 ## Database
 
-数据库类型，根据你的需要进行选择。默认为 SQLite，如果你希望使用 MySQL，将这里的值修改为 MySQL 即可。
+Database type, select according to your needs.The default is SQLite. If you want to use MySQL, change the value here to MySQL.
 
 ## MySQL
 
