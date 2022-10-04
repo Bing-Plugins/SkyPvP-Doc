@@ -4,7 +4,7 @@
 
 {% hint style="success" %}
 If you buy a plugin from SpecotMC or BuiltByBit(MC-Market), you can skip this step.\
-Token 仅在使用构建版本时才需要。
+Token is required only if build version is used.
 {% endhint %}
 
 1. Contact me via [Discord](https://discord.gg/MZ74zFevCD) or email (Bing\_Yanchi@outlook.com).
