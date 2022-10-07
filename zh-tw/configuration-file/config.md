@@ -32,6 +32,9 @@ Void-Kill-Time: 10
 # 当玩家低于指定高度，认定为死亡
 Void-Kill-Height: -200
 
+# 死亡重生时间
+Death-Respawn-Time: 0
+
 # 自定义打开幸运方块声音
 # 1.8 LEVEL_UP
 # 1.9+ ENTITY_PLAYER_LEVELUP
@@ -90,6 +93,12 @@ MySQL:
 ## Void-Kill-Height
 
 当玩家低于此高度，判定该玩家死亡。
+
+## Death-Respawn-Time
+
+死亡时会切换到观察者模式，然后等待指定秒数后复活。
+
+将此值设置为 0 时禁用此功能。
 
 ## Open-Loot-Sound
 
