@@ -1,53 +1,53 @@
 # config.yml
 
 ```yaml
-# Token 认证令牌
-# 如果你从 SpigotMC 购买则无需填写 Token
+# Token authentication token
+# If you purchase from SpigotMC, you do not need to fill in Token
 Token: ""
 
-# 更新检查器
+# Update Checker
 Update-Checker: true
 
-# Debug 模式
+# Debug mode
 Debug-Mode: false
 
-# 战斗模式持续时间
+# Duration of battle mode
 Combat-Time: 10
 
-# 传送等待时间
+# Transmission waiting time
 Spawn-Cool-Down: 3
 
-# 击杀给予经济
+# Kill the economy
 Kill-Coins: 10
 
-# 死亡保留经验
+# Death retention experience
 Keep-Death-Exp: false
 
-# 进入游戏几秒内无伤害 (不建议设置为 0)
+# No damage within a few seconds after entering the game (0 is not recommended)
 No-Damage-On-Join: 3
 
-# 击如虚空时, 认定多少秒内的攻击者为杀手
+# When you hit the void, you can identify the attacker as a killer for how many seconds
 Void-Kill-Time: 10
 
-# 当玩家低于指定高度，认定为死亡
+# When the player is below the specified height, it is considered dead
 Void-Kill-Height: -200
 
-# 死亡重生时间
+# Time of death and rebirth
 Death-Respawn-Time: 0
 
-# 自定义打开幸运方块声音
+# Custom Open Lucky Box Sound
 # 1.8 LEVEL_UP
 # 1.9+ ENTITY_PLAYER_LEVELUP
 Open-Loot-Sound: ""
 
-# 出生位置
+# Birthplace
 Spawn-Loc: ""
 
-# 数据库类型
+# Database Type
 # SQLite 或 MySQL
 Database: SQLite
 
-# 数据部分
+# Data section
 MySQL:
   host: mysql.yistars.net
   port: 3306
@@ -96,9 +96,9 @@ When a player is below this height, the player will be judged dead.
 
 ## Death-Respawn-Time
 
-死亡时会切换到观察者模式，然后等待指定秒数后复活。
+Switch to observer mode on death, then wait for a specified number of seconds to rejuvenate.
 
-将此值设置为 0 时禁用此功能。
+Disable this when setting this value to 0.
 
 ## Open-Loot-Sound
 
