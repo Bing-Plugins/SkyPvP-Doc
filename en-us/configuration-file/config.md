@@ -32,6 +32,9 @@ Void-Kill-Time: 10
 # When the player is below the specified height, it is considered dead
 Void-Kill-Height: -200
 
+# Time of death and rebirth
+Death-Respawn-Time: 0
+
 # Custom Open Lucky Box Sound
 # 1.8 LEVEL_UP
 # 1.9+ ENTITY_PLAYER_LEVELUP
@@ -90,6 +93,12 @@ When a player dies as a result of a crash in the sky, determine how many seconds
 ## Void-Kill-Height
 
 When a player is below this height, the player will be judged dead.
+
+## Death-Respawn-Time
+
+Switch to observer mode on death, then wait for a specified number of seconds to rejuvenate.
+
+Disable this when setting this value to 0.
 
 ## Open-Loot-Sound
 
