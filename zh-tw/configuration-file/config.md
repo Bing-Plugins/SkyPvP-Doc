@@ -35,6 +35,12 @@ Void-Kill-Height: -200
 # 死亡重生时间
 Death-Respawn-Time: 0
 
+# 禁用计分板
+Disable-Scoreboard: false
+
+# 启用保存库存
+Enable-Keep-Inventory: false
+
 # 自定义打开幸运方块声音
 # 1.8 LEVEL_UP
 # 1.9+ ENTITY_PLAYER_LEVELUP
@@ -99,6 +105,14 @@ MySQL:
 死亡时会切换到观察者模式，然后等待指定秒数后复活。
 
 将此值设置为 0 时禁用此功能。
+
+## Disable-Scoreboard
+
+禁用内置的计分板功能。可以用于关闭计分板。
+
+## Enable-Keep-Inventory
+
+禁用内置的物品掉落功能。
 
 ## Open-Loot-Sound
 

@@ -2,58 +2,62 @@
 
 ```yaml
 # Token authentication token
-# If you purchase from SpigotMC, you do not need to fill in Token
+# No need to fill in Token if you buy from SpigotMC
 Token: ""
 
-# Update Checker
-Update-Checker: true
-
-# Debug mode
+# Debug Mode
 Debug-Mode: false
 
-# Duration of battle mode
+# Combat mode duration
 Combat-Time: 10
 
 # Transmission waiting time
 Spawn-Cool-Down: 3
 
-# Kill the economy
+# Kill give economy
 Kill-Coins: 10
 
 # Death retention experience
 Keep-Death-Exp: false
 
-# No damage within a few seconds after entering the game (0 is not recommended)
+# No damage in a few seconds after entering the game (it is not recommended to set it to 0)
 No-Damage-On-Join: 3
 
-# When you hit the void, you can identify the attacker as a killer for how many seconds
+# When the attack is empty, how many seconds can the attacker be identified as a killer
 Void-Kill-Time: 10
 
-# When the player is below the specified height, it is considered dead
+# When the player is below this height, it is automatically considered dead
 Void-Kill-Height: -200
 
-# Time of death and rebirth
+# Death retention time
 Death-Respawn-Time: 0
 
-# Custom Open Lucky Box Sound
+# Disable scoreboard
+Disable-Scoreboard: false
+
+# Enable Keep Inventory
+Enable-Keep-Inventory: false
+
+# Custom open lucky box sound
 # 1.8 LEVEL_UP
 # 1.9+ ENTITY_PLAYER_LEVELUP
 Open-Loot-Sound: ""
 
-# Birthplace
+# Place of birth
 Spawn-Loc: ""
 
-# Database Type
-# SQLite 或 MySQL
+# Database type
+# SQLite or MySQL
 Database: SQLite
 
-# Data section
+# SQL
 MySQL:
-  host: mysql.yistars.net
+  driver: ""
+  host: "mysql.yistars.net"
   port: 3306
-  username: BingSkyPvP
-  password: bhx7HNpYkxy6rLdX
-  database: bingskypvp
+  username: "BingSkyPvP"
+  password: "bhx7HNpYkxy6rLdX"
+  database: "bingskypvp"
 ```
 
 ## Token
@@ -99,6 +103,14 @@ When a player is below this height, the player will be judged dead.
 Switch to observer mode on death, then wait for a specified number of seconds to rejuvenate.
 
 Disable this when setting this value to 0.
+
+## Disable-Scoreboard
+
+Disable bDisable the built-in scoreboard function.Can be used to close the scoreboard.
+
+## Enable-Keep-Inventory
+
+Disable the built-in item drop function.
 
 ## Open-Loot-Sound
 
