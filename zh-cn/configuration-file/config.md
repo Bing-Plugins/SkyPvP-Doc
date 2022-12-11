@@ -55,6 +55,7 @@ Database: SQLite
 
 # 数据部分
 MySQL:
+  driver: ""
   host: mysql.yistars.net
   port: 3306
   username: BingSkyPvP
