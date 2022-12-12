@@ -26,7 +26,7 @@ Keep-Death-Exp: false
 # 进入游戏几秒内无伤害 (不建议设置为 0)
 No-Damage-On-Join: 3
 
-# 击如虚空时, 认定多少秒内的攻击者为杀手
+# 击入虚空时, 认定多少秒内的攻击者为杀手
 Void-Kill-Time: 10
 
 # 当玩家低于指定高度，认定为死亡
@@ -55,6 +55,7 @@ Database: SQLite
 
 # 数据部分
 MySQL:
+  driver: ""
   host: mysql.yistars.net
   port: 3306
   username: BingSkyPvP
