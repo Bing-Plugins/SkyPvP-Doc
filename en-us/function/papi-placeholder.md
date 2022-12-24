@@ -4,7 +4,7 @@
 
 | Placeholder           | Description                           |
 | --------------------- | ------------------------------------- |
-| %skypvp\_kils%      | Kills                                 |
+| %skypvp\_kills%     | Kills                                 |
 | %skypvp\_deaths%    | Death                                 |
 | %skypvp\_rank%      | Ranking                               |
 | %skypvp\_extranank% | Next rank                             |

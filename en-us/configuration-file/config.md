@@ -1,66 +1,63 @@
 # config.yml
 
 ```yaml
-# Token 认证令牌
-# 如果你从 SpigotMC 购买则无需填写 Token
+# Token authentication token
+# No need to fill in Token if you buy from SpigotMC
 Token: ""
 
-# 更新检查器
-Update-Checker: true
-
-# Debug 模式
+# Debug Mode
 Debug-Mode: false
 
-# 战斗模式持续时间
+# Combat mode duration
 Combat-Time: 10
 
-# 传送等待时间
+# Transmission waiting time
 Spawn-Cool-Down: 3
 
-# 击杀给予经济
+# Kill give economy
 Kill-Coins: 10
 
-# 死亡保留经验
+# Death retention experience
 Keep-Death-Exp: false
 
-# 进入游戏几秒内无伤害 (不建议设置为 0)
+# No damage in a few seconds after entering the game (it is not recommended to set it to 0)
 No-Damage-On-Join: 3
 
-# 击入虚空时, 认定多少秒内的攻击者为杀手
+# When the attack is empty, how many seconds can the attacker be identified as a killer
 Void-Kill-Time: 10
 
-# 当玩家低于指定高度，认定为死亡
+# When the player is below this height, it is automatically considered dead
 Void-Kill-Height: -200
 
-# 死亡重生时间
+# Death retention time
 Death-Respawn-Time: 0
 
-# 禁用计分板
+# Disable scoreboard
 Disable-Scoreboard: false
 
-# 启用保存库存
+# Enable Keep Inventory
 Enable-Keep-Inventory: false
 
-# 自定义打开幸运方块声音
+# Custom open lucky box sound
 # 1.8 LEVEL_UP
 # 1.9+ ENTITY_PLAYER_LEVELUP
 Open-Loot-Sound: ""
 
-# 出生位置
+# Place of birth
 Spawn-Loc: ""
 
-# 数据库类型
-# SQLite 或 MySQL
+# Database type
+# SQLite or MySQL
 Database: SQLite
 
-# 数据部分
+# SQL
 MySQL:
   driver: ""
-  host: mysql.yistars.net
+  host: "mysql.yistars.net"
   port: 3306
-  username: BingSkyPvP
-  password: bhx7HNpYkxy6rLdX
-  database: bingskypvp
+  username: "BingSkyPvP"
+  password: "bhx7HNpYkxy6rLdX"
+  database: "bingskypvp"
 ```
 
 ## Token
